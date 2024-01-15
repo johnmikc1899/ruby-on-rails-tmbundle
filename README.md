@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Add HUB-SDK Docs reference section (#7781)
