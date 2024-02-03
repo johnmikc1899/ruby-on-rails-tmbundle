@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+fix yolo classify model loading error (#9196)
