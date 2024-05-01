@@ -1,1 +1,1 @@
-Elaborate Train and Predict mode docs arguments (#8137)
+Compare plt.get_backend() in lowercase (#8409)
